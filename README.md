@@ -1,6 +1,6 @@
 # 🧠 BigBig Unity Formula + BBLink System
 
-**A 40-day AGI Research Sprint: 18+ Open Beta Papers on Math, Physics, and Conscious Simulation**
+**A 60-day AGI Research Sprint: 30+ Open Beta Papers on Math, Physics, and Conscious Simulation**
 
 Welcome to the official index for the **BigBig Unity Formula** and **BBLink (Big Blink) System** — two interwoven frameworks exploring the boundaries of math, quantum control, and computational philosophy.
 
